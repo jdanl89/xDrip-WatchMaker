@@ -48,4 +48,7 @@ The following is a list of special privileges and the apps they must be granted 
   - Tasker
   - WatchMaker
 
-- Usage Acces
+- Usage Access
+  - Tasker
+
+## Add Tasker Profile
